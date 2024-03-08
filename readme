@@ -1,0 +1,6 @@
+Como Executar os Testes
+
+    Para rodar via linha de comando: 
+        yarn cypress run 
+    Para rodar via GUI: 
+        yarn cypress open
